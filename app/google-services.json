@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604132438356",
+    "project_id": "streamvibe-6cfb6",
+    "storage_bucket": "streamvibe-6cfb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604132438356:android:aadc33354aea627a7018c1",
+        "android_client_info": {
+          "package_name": "com.example.streamvibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQX7GUdpWJuKlAYtYskEow7I7m1wRp1jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
